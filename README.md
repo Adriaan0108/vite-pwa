@@ -4,7 +4,7 @@ A simple tutorial on how to create a PWA using Vite.
 
 ## Instructions
 
-Create a Vite project:
+Create a Vite project (skip this step if you already have a project):
 
 ```bash
 npm create vite@latest
@@ -195,7 +195,6 @@ The `index.html` should now look something like this:
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
-```bash
 ````
 
 Run and build the app:
